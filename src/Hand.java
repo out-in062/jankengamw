@@ -17,3 +17,5 @@ public interface Hand {
     public String getHandName();
  
  }
+
+ 
